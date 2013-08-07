@@ -1,0 +1,24 @@
+Github
+Repositorios y branches
+Push, pull, centralizado
+Cambios delta
+Blame
+
+position
+
+Diseño final
+
+Icon Fonts
+
+
+Responsive Design, limites, arreglos
+Video
+Efectos de transición
+
+jQuery
+eventos
++1 y -1 en los votos
+
+
+
+Sponsors

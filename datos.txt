@@ -1,0 +1,25 @@
+retina display
+tipografias en lugar de imagenes
+vectores en css
+duplica el tamaño de todas las imagenes.
+100x100 exportarlas a 200x200. pero a 50% 
+svg
+
+imagen de menos de 256 colores, png,
+otro caso jpg.
+retina display
+
+ultimos 25 minutos.  preguntas
+strong en lugar de b
+
+
+movil  480px - 728
+desktop 728 - 1200
+
+clase 2
+truco
+poner padding en elementos clikeables para que la zona donde se pueda clichquear sea mas grande.
+
+
+1h 5
+
