@@ -125,6 +125,10 @@ nav #publicar_nav a{
 	text-decoration: none;
 }
 
+#bienvenida {
+	display:none;
+}
+
 #contenido {
 	margin: 1em;
 }
@@ -150,6 +154,7 @@ nav #publicar_nav a{
 	background: #878787;
 	border-radius: 4px;
 	color: white;
+	margin: 0 0 0 2em;
 	padding:4px;
 	text-decoration: none;
 
